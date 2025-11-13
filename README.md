@@ -32,7 +32,7 @@ https://medium.com/analytics-vidhya/mm-sensors-and-motors-7fa3a870db67
 3.GITHUB 
 https://github.com/Isuru-Dissanayake/piccola
 
-4.VIDEOS FOR MICROMOUSE 2021-22
+4.Vidoes of the challenge 2021-22
 https://youtube.com/playlist?list=PLAWsHzw_h0iiz1EQEvQ9neo4NVnsSTkIm
 
 
