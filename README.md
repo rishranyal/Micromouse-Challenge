@@ -1,4 +1,5 @@
 # MICROMOUSE
+<img width="727" height="405" alt="image" src="https://github.com/user-attachments/assets/ee276e86-6913-4315-b2d9-5df76d7beda7" />
 
 ## Introduction
 MICROMOUSE is an autonomous robot designed for the International Micromouse Challenge 2022 at IIT Bombay. The challenge involves building a robot capable of rapidly navigating a labyrinth to reach the center in the shortest time possible.
