@@ -20,5 +20,23 @@ Designed and built an autonomous bot with 18cm square cells set over a 16 x 16 g
 ## Code Overview
 The project utilizes Arduino Nano and two tires for a compact and speedy design.The code files consist of a wall-following algorithm and on ewit flood fill algorithm. For guaranteed finding of the goal, one must prefer flood fill algorithm. Wall folowing algorithm is successful only only in cases when the goal lies at one of the edges adjacent to the wall i.e on the outer most edges.
 
+## Study Material
+1.Maze solver bot using arduino: 
+
+https://www.slideshare.net/GautamJagdhish/maze-solver-robot-using-arduino
+
+2.Micromouse from scratch | Sensors and Motors | Piccola
+https://medium.com/analytics-vidhya/mm-sensors-and-motors-7fa3a870db67
+
+
+3.GITHUB 
+https://github.com/Isuru-Dissanayake/piccola
+
+4.VIDEOS FOR MICROMOUSE 2021-22
+https://youtube.com/playlist?list=PLAWsHzw_h0iiz1EQEvQ9neo4NVnsSTkIm
+
+
+5.PID in detail
+https://medium.com/@TowardInfinity/pid-for-line-follower-11deb3a1a643
 
 
